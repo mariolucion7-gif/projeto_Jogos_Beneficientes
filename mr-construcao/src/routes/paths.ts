@@ -1,0 +1,1 @@
+export const AppRoutes={HOME:'/',LOGIN:'/login',PRODUCTS_LIST:'/produtos',PRODUCTS_NEW:'/produtos/novo',PRODUCTS_EDIT:'/produtos/:id',CLIENTS_LIST:'/clientes',CLIENTS_NEW:'/clientes/novo',CLIENTS_EDIT:'/clientes/:id',ORDERS_LIST:'/orcamentos',ORDERS_NEW:'/orcamentos/novo'} as const;
